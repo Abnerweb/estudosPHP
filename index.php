@@ -1,6 +1,6 @@
 <?php
 
- echo "ola mundo 3";
+ echo "ola mundo";
 
 
 ?>
